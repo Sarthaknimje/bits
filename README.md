@@ -1,74 +1,71 @@
-Here’s the entire **README.md** for your NFT Whale Tracker project in one complete block:
-
-```markdown
 # NFT Whale Tracker 🐋
 
-## Overview
+## **Overview**
 NFT Whale Tracker is a real-time analytics platform that monitors and analyzes significant NFT trading activities across multiple blockchains. The platform identifies and tracks "whale" movements - large-volume NFT traders whose actions can significantly impact the market.
 
-## Features 🚀
+## **Features 🚀**
 
-### Real-Time Whale Movement Alerts
+### **Real-Time Whale Movement Alerts**
 - Live tracking of high-volume NFT transactions
 - Customizable alert thresholds
 - Telegram notifications for significant movements
 - Detailed transaction analytics
 
-### Whale Identification
+### **Whale Identification**
 - Advanced whale wallet detection
 - Historical trading pattern analysis
 - Portfolio composition tracking
 - Risk assessment metrics
 
-### Market Analysis
+### **Market Analysis**
 - Real-time market trend analysis
 - Price impact visualization
 - Trading volume metrics
 - Market manipulation detection
 
-### AI-Powered Insights
+### **AI-Powered Insights**
 - Predictive analytics for whale movements
 - Market sentiment analysis
 - Trading pattern recognition
 - Risk assessment scoring
 
-## Technology Stack 💻
+## **Technology Stack 💻**
 
-### Frontend
-- React.js
-- Material-UI (MUI)
-- Chart.js
-- Framer Motion
-- TypeScript
+### **Frontend**
+- **React.js**
+- **Material-UI (MUI)**
+- **Chart.js**
+- **Framer Motion**
+- **TypeScript**
 
-### Backend Services
-- Node.js
-- Express.js
-- Netlify Functions
+### **Backend Services**
+- **Node.js**
+- **Express.js**
+- **Netlify Functions**
 
-### APIs & Integration
-- Telegram Bot API
-- Blockchain APIs
-- AI/ML Services
+### **APIs & Integration**
+- **Telegram Bot API**
+- **Blockchain APIs**
+- **AI/ML Services**
 
-### Development & Deployment
-- GitHub Actions
-- Netlify
-- Environment Variable Management
+### **Development & Deployment**
+- **GitHub Actions**
+- **Netlify**
+- **Environment Variable Management**
 
-## Getting Started 🏁
+## **Getting Started 🏁**
 
-### Prerequisites
+### **Prerequisites**
 ```bash
 node.js >= 14.0.0
 npm >= 6.14.0
-```
+
 
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/nft-whale-tracker.git
-cd nft-whale-tracker
+git clone https://github.com/sarthaknimje/bits.git
+cd bits
 ```
 
 2. Install dependencies
@@ -199,7 +196,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Telegram Bot API](https://core.telegram.org/bots/api)
 
 ## Contact 📧
-Your Name - [@yourusername](https://twitter.com/yourusername)
+Your Name - [@sarthaknimje](https://x.com/sarthaknimje)
 
 Project Link: [https://github.com/yourusername/nft-whale-tracker](https://github.com/yourusername/nft-whale-tracker)
 
@@ -213,9 +210,3 @@ Project Link: [https://github.com/yourusername/nft-whale-tracker](https://github
 ## Support 💪
 Give a ⭐️ if this project helped you!
 ```
-
-### Customization
-- Replace `yourusername` with your GitHub username.
-- Add real screenshots to the project’s images and replace the placeholder in the `![Project Screenshot](screenshot.png)` link.
-- Add any specific setup or deployment instructions you may have.
-- Update the `LICENSE.md` file as needed and ensure that the license information reflects the correct one for your project.
