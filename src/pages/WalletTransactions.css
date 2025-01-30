@@ -1,0 +1,39 @@
+/* Wallet Transactions Styling */
+.wallet-transactions {
+    padding: 30px;
+    background-color: #f4f7fb;
+    border-radius: 8px;
+    max-width: 1200px;
+    margin: 0 auto;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .wallet-transactions h2 {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .wallet-transactions p {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #777;
+    margin-bottom: 30px;
+  }
+  
+  /* Table Styling */
+  .MuiTableContainer-root {
+    margin-top: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .MuiTableCell-root {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .MuiTableRow-root:hover {
+    background-color: #f1f1f1;
+  }
+  
