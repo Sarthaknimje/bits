@@ -198,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact 📧
 Your Name - [@sarthaknimje](https://x.com/sarthaknimje)
 
-Project Link: [https://github.com/yourusername/nft-whale-tracker](https://github.com/yourusername/nft-whale-tracker)
+Project Link: [https://github.com/Sarthaknimje/bits)
 
 ## Roadmap 🛣️
 - [ ] Multi-chain support
